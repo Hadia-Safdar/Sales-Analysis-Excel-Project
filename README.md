@@ -32,7 +32,7 @@ The project includes data cleaning, analysis, and an interactive Excel dashboard
 
 ## Preview:
 
-![Dashboard Screenshot](Dashboard_screenshot)
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 ## Summary:
 
